@@ -9,6 +9,7 @@ I focus on writing clean, maintainable code, working with JPA/Hibernate, optimiz
 I enjoy collaborating with teams, improving system performance, and continuously learning new technologies to build high-quality backend solutions.
 
 🚀 Key Expertise:
+
 💻 Backend Development: Java, Spring, Spring Boot 
 🏗️ Architecture: Microservices, RESTful APIs 
 🗄️ ORM & Persistence: JPA, Hibernate 
