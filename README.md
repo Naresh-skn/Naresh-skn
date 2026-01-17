@@ -1,16 +1,19 @@
 ## Hi there 👋
+Hi, I’m Naresh, a Java Backend Developer with hands-on experience in building scalable backend systems using Java, Spring Boot, and Microservices. I specialize in designing RESTful APIs, implementing robust business logic, and working with relational databases to deliver reliable applications.
 
-<!--
-**Naresh-skn/Naresh-skn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on writing clean, maintainable code, working with JPA/Hibernate, optimizing SQL queries, and ensuring data consistency in distributed systems. I’m also familiar with Docker and AWS, enabling smooth application deployment and scalability.
 
-Here are some ideas to get you started:
+I enjoy collaborating with teams, improving system performance, and continuously learning new technologies to build high-quality backend solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Key Expertise:
+💻 Backend Development: Java, Spring, Spring Boot
+🏗️ Architecture: Microservices, RESTful APIs
+🗄️ ORM & Persistence: JPA, Hibernate
+🛢️ Databases: MySQL, PostgreSQL
+🔗 Version Control: Git, GitHub
+📦 Containerization: Docker
+☁️ Cloud: AWS (EC2, S3, RDS)
+🧠 Development Practices: Clean Code, Exception Handling, API Design
+📨 Messaging / Streaming: Apache Kafka
+
+I’m committed to continuous learning and enjoy building backend systems that are scalable, secure, and production ready.
