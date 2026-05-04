@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Naresh
 
-Software Engineer @ BNP Paribas Corporation
+Software Engineer @ BNP Paribas
 
 A Java Backend Developer with hands-on experience in building scalable backend systems using Java, Spring Boot, and Microservices. I specialize in designing RESTful APIs, implementing robust business logic, and working with relational databases to deliver reliable applications.
 
